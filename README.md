@@ -1,8 +1,9 @@
-# pytorch_from_scratch
-this involves using jupyter notebook
+# Image Classification model using Pytorch Neural Network (With / Without GPU)
 
-#Download kaggle datasets for Cats and Dogs
+Author: Joseph Cheng
+Programming Language: Python
+Main Library: Pytorch
 
-
-Reference
-https://www.youtube.com/watch?v=1gQR24B3ISE&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh&index=6
+Prerequisit: 
+1. Download kaggle datasets for Cats and Dogs
+2. Follow the video: https://www.youtube.com/watch?v=1gQR24B3ISE&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh&index=6
